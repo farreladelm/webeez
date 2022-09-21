@@ -95,6 +95,7 @@ img {
     font-size: 20px;
     color: #0E3A6D;
     text-shadow: 1px 2px 4px #3B4364;
+    cursor: pointer;
 }
 
 /* ====== NAVBAR =========== */
@@ -397,7 +398,7 @@ img {
     justify-content: center;
     padding: 1rem;
     border-radius: 25px;
-    
+    cursor: pointer;
 }
 
 .layanan-cards .card .card-icon,
