@@ -334,6 +334,11 @@ img {
     font-size: 18px;
 }
 
+.layanan-sec p {
+    text-align: center;
+    margin-top: 3rem;
+}
+
 .elipse {
     position: absolute;
     width: 1903.82px;
@@ -649,7 +654,6 @@ img {
 
 .porto-text {
     width: 50%;
-    display: flex;
     padding: 4rem 2rem;
 }
 
