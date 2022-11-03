@@ -62,6 +62,8 @@ img {
     font-weight: bold;
 }
 
+
+
 /* ======= SHADOW =========== */
 
 .shadow {
@@ -250,6 +252,7 @@ img {
 
 .client-content .clients .client img{
     width: 120px;
+    transition: .5s ease;
 }
 
 .client-desc {
