@@ -1,0 +1,2 @@
+URL web yang sudah di hosting:
+https://webeez.netlify.app/
